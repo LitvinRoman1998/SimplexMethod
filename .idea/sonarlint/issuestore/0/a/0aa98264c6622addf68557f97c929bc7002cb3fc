@@ -1,0 +1,33 @@
+
+isquid:S3776G"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(·åÂÀ
+ssquid:S00100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–­Œßúÿÿÿÿ8ş¹¸üõ,
+1squid:S1220""Move this file to a named package.
+rsquid:S00116."URename this field "MaxXPanel5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸æÌœùÿÿÿÿ
+usquid:S1450."YRemove the "MaxXPanel5" field and declare it as a local variable in the relevant methods.(¸æÌœùÿÿÿÿ
+psquid:S1450&"YRemove the "MaxXPanel4" field and declare it as a local variable in the relevant methods.(’•ÿ
+lsquid:S1450A"URemove the "Labels" field and declare it as a local variable in the relevant methods.(ñ˜§
+rsquid:S00116"URename this field "MaxXPanel2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¤ä©ıÿÿÿÿ
+hsquid:S00116B"PRename this field "Panel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïàÕ
+lsquid:S00100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ ¨úúÿÿÿÿ
+msquid:S001166"URename this field "MaxXPanel6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø®ïæ
+psquid:S1450"YRemove the "MaxXPanel3" field and declare it as a local variable in the relevant methods.(»§¦õ
+tsquid:S00116"WRename this field "FormMaxPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ³úÿÿÿÿ
+psquid:S00116"SRename this field "MaxPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŸ¨üÿÿÿÿ
+msquid:S00116"URename this field "MaxXPanel3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»§¦õ
+isquid:S00116A"QRename this field "Labels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ˜§
+vsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(–­Œßúÿÿÿÿ8ş¹¸üõ,
+Dsquid:S1604H"(Make this anonymous inner class a lambda(–·ù·øÿÿÿÿ
+usquid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇÜÕ•ıÿÿÿÿ
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(…—Ã
+nsquid:S00116@"QRename this field "XPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ƒŒ¾ùÿÿÿÿ
+wsquid:S1450"[Remove the "FormMaxPanel" field and declare it as a local variable in the relevant methods.( ³úÿÿÿÿ
+usquid:S1450"YRemove the "MaxXPanel2" field and declare it as a local variable in the relevant methods.(æ¤ä©ıÿÿÿÿ
+lsquid:S00116"TRename this field "MaxXPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¨ôõ
+vsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„î¨½ûÿÿÿÿ8ş¹¸üõ,
+lsquid:S00100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡œĞ—ıÿÿÿÿ
+osquid:S1450"XRemove the "MaxXPanel" field and declare it as a local variable in the relevant methods.(’¨ôõ
+psquid:S14506"YRemove the "MaxXPanel6" field and declare it as a local variable in the relevant methods.(ø®ïæ
+}squid:S1171ş"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ş¹¸üõ,
+msquid:S00116&"URename this field "MaxXPanel4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’•ÿ
+qsquid:S1450@"URemove the "XPanel" field and declare it as a local variable in the relevant methods.(¨ƒŒ¾ùÿÿÿÿ
+ssquid:S1450"WRemove the "MaxPanel" field and declare it as a local variable in the relevant methods.(ÑŸ¨üÿÿÿÿ
